@@ -8,7 +8,7 @@ Website containing list of favorite movies that allows the user to watch youtube
 * Details
 
 ### Description
-Movie Trailer Website is project from **Full Stack Web Developer Nanodegree program**. It focuses on writing server-side code written in Python to store a list of your favorite movies, including box art imagery and a movie trailer URL. It generates a static web page allowing visitors to browse their movies and watch the trailers onclick.
+Movie Trailer Website is project from **Full Stack Web Developer Nanodegree program**. It focuses on writing server-side code written in Python to store a list of your favorite movies, including box art imagery and a movie trailer URL. It generates a static web page allowing visitors to browse their favorite movies and watch the trailers onclick.
 
 ### Requirements
 * python >= 2.7
